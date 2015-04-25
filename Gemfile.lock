@@ -61,6 +61,7 @@ GEM
     rspec-support (3.2.2)
     ruby-growl (4.1)
       uuid (~> 2.3, >= 2.3.5)
+    ruby_gntp (0.3.4)
     shellany (0.0.1)
     slop (3.6.0)
     systemu (2.6.5)
@@ -80,3 +81,4 @@ DEPENDENCIES
   guard-rspec
   rspec
   ruby-growl
+  ruby_gntp
